@@ -90,13 +90,14 @@
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "App", function() { return App; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 
 var App = function () {
     return (react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "HELLO ALEC WEBPACK!"));
 };
-/* harmony default export */ __webpack_exports__["default"] = (App);
+
 
 
 /***/ }),
